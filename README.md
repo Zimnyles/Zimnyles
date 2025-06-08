@@ -4,7 +4,7 @@
 
 my stack
 
-<img src="https://img.shields.io/badge/Golang-222222?style=for-the-badge&logo=go&logoColor=#00ADD8"/>  <img src="https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=&logoColor=#3366CC"/> <img src="https://img.shields.io/badge/templ-FFFF00?style=for-the-badge&logo=&logoColor=#3366CC"/> 
+<img src="https://img.shields.io/badge/Golang-222222?style=for-the-badge&logo=go&logoColor=#00ADD8"/>  <img src="https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=&logoColor=#3366CC"/> <img src="https://img.shields.io/badge/templ-FFFF00?style=for-the-badge&logo=&logoColor=#3366CC"/> <img src="https://img.shields.io/badge/gorm-3f424a?style=for-the-badge&logo=&logoColor=#00ADD8"/> 
 
 <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=#3776AB"/>
 
