@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/bVBk0t0TJKN.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAd/lain-lain-iwakura.gif" width="200"/>
 </div>
